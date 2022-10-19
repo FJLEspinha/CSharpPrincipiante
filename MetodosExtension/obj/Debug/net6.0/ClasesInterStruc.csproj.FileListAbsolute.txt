@@ -1,0 +1,15 @@
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\bin\Debug\net6.0\ClasesInterStruc.exe
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\bin\Debug\net6.0\ClasesInterStruc.deps.json
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\bin\Debug\net6.0\ClasesInterStruc.runtimeconfig.json
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\bin\Debug\net6.0\ClasesInterStruc.dll
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\bin\Debug\net6.0\ClasesInterStruc.pdb
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.csproj.AssemblyReference.cache
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.AssemblyInfoInputs.cache
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.AssemblyInfo.cs
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.csproj.CoreCompileInputs.cache
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.dll
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\refint\ClasesInterStruc.dll
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.pdb
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ClasesInterStruc.genruntimeconfig.cache
+D:\DAM\OpenWebinars\C#ParaPrincipiantes\WorkspacePrincipiante\ClasesInterStruc\obj\Debug\net6.0\ref\ClasesInterStruc.dll
